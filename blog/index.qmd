@@ -1,0 +1,55 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.blog-shell}
+
+# Writings
+
+<div class="blog-intro">
+Essays, research notes, and longer-form writing on mathematics, scientific discovery, artificial intelligence, and research.
+</div>
+
+::: {.blog-row}
+::: {.blog-meta}
+**Sep 2026**  
+Bacim Alali
+:::
+
+::: {.blog-main}
+## [Sample essay title](sample-post-1.html)
+
+<span class="tag">MATHEMATICS</span>
+<span class="tag">AI</span>
+<span class="tag">SCIENCE</span>
+
+A short description of the essay goes here. Replace this sample with your own writing.
+:::
+
+::: {.blog-thumb}
+<div class="thumb-placeholder thumb-one">MATHEMATICS<br>& AI</div>
+:::
+:::
+
+::: {.blog-row}
+::: {.blog-meta}
+**Aug 2026**  
+Bacim Alali
+:::
+
+::: {.blog-main}
+## [Another sample essay](sample-post-2.html)
+
+<span class="tag">RESEARCH</span>
+<span class="tag">PUBLISHING</span>
+
+Use this row for another article, research note, or essay. The layout is designed to resemble the example you showed.
+:::
+
+::: {.blog-thumb}
+<div class="thumb-placeholder thumb-two">SCIENTIFIC<br>DISCOVERY</div>
+:::
+:::
+
+:::

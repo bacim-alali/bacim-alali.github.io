@@ -1,0 +1,12 @@
+---
+title: "Publications"
+---
+
+Add your publications here.
+
+A convenient format is:
+
+### 2026
+
+**Author names.** *Paper title.* Journal, volume, pages, year.  
+[DOI](https://doi.org/)

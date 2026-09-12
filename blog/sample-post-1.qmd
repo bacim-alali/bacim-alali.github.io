@@ -1,0 +1,11 @@
+---
+title: "Sample essay title"
+date: 2026-09-01
+author: "Bacim Alali"
+---
+
+Replace this page with your essay.
+
+## First section
+
+Quarto supports ordinary Markdown, mathematics such as $e^{i\pi}+1=0$, citations, figures, and code.

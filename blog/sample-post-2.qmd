@@ -1,0 +1,11 @@
+---
+title: "Another sample essay"
+date: 2026-08-01
+author: "Bacim Alali"
+---
+
+Replace this page with another essay or research note.
+
+## First section
+
+Write the article here.

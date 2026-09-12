@@ -1,0 +1,14 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Bacim Alali
+
+Professor of Mathematics  
+Kansas State University
+
+Add a short web version of your CV here.
+
+You can also place a PDF in the project, for example `files/Bacim_Alali_CV.pdf`, and link to it with:
+
+`[Download full CV](files/Bacim_Alali_CV.pdf)`
