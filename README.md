@@ -1,15 +1,12 @@
-# Bacim Alali personal website — Quarto starter
+# bacim-alali.github.io
 
-This package is a ready-to-paste Quarto website inspired by the layouts you shared.
+Personal essays and documents website for Bacim Alali.
 
-## Use it
+This is a static GitHub Pages site. The homepage is `index.html` and the styles are in `style.css`.
 
-1. Copy the files into your existing `bacim-website` project.
-2. Keep your current content somewhere safe before replacing files.
-3. Run:
-   `quarto preview`
-4. Replace `YOUR_EMAIL_HERE` in `index.qmd`.
-5. Edit the biography, projects, publications, presentations, CV, and sample blog posts.
-6. When ready, publish to GitHub Pages.
+Planned content:
+- HTML essays in `essays/`
+- PDF versions in `pdf/`
 
-The supplied profile image is in `images/profile.png`.
+GitHub Pages URL:
+https://bacim-alali.github.io
