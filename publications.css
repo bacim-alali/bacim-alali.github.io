@@ -1,0 +1,22 @@
+/* Publications page: extends the existing site design. */
+.publications-page { max-width: 930px; margin: 0 auto; padding: 60px 0 76px; }
+.publications-page h1 { margin: 0 0 10px; font: 500 clamp(2.5rem, 5vw, 3.9rem)/1.12 Georgia, 'Times New Roman', serif; letter-spacing: -.025em; }
+.publications-intro { margin-bottom: 38px; }
+.publication-section { margin-top: 48px; scroll-margin-top: 25px; }
+.publication-section h2 { margin: 0 0 15px; font: 500 1.95rem/1.2 Georgia, 'Times New Roman', serif; letter-spacing: -.016em; }
+.publication-list { padding: 0; margin: 0; list-style: none; }
+.publication-list > li { display: grid; grid-template-columns: 62px minmax(0, 1fr); gap: 20px; padding: 22px 0 24px; border-top: 1px solid var(--line, #e7e7e7); }
+.pub-year { color: var(--muted, #6d6d6d); font-size: .86rem; padding-top: 3px; font-variant-numeric: tabular-nums; }
+.pub-authors { font-size: .94rem; color: #414141; margin-bottom: 4px; }
+.pub-title { margin: 0 0 5px; font: 500 1.21rem/1.35 Georgia, 'Times New Roman', serif; }
+.pub-source { margin: 0; color: #424242; font-size: .94rem; line-height: 1.5; }
+.pub-links { margin-top: 9px; display: flex; flex-wrap: wrap; gap: 18px; }
+.pub-links a { text-decoration: none; font-size: .82rem; font-weight: 650; letter-spacing: .035em; text-transform: uppercase; }
+@media (max-width: 600px) {
+  .publications-page { padding-top: 42px; }
+  .publication-list > li { grid-template-columns: 1fr; gap: 2px; }
+  .pub-year { margin-bottom: 5px; }
+  .publication-section h2 { font-size: 1.6rem; }
+}
+
+.pub-links a:hover { text-decoration: underline; text-underline-offset: 3px; }
